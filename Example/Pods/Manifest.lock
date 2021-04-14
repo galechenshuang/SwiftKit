@@ -1,0 +1,16 @@
+PODS:
+  - SwiftKit (0.1.0)
+
+DEPENDENCIES:
+  - SwiftKit (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftKit: 5698e3df03b7e4291728ed60a1a5ff93cd15db72
+
+PODFILE CHECKSUM: 50abbd9421ee31620a49b021fc40d1895e195740
+
+COCOAPODS: 1.10.0
